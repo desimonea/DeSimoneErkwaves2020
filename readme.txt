@@ -26,9 +26,14 @@
 % Memory 32 GB 1600 MHz DDR3
 %
 % INSTALLATION AND USAGE
-% Installation is not required. The user can run the code by changing 
+% The user can run the code by changing 
 % MATLAB's present working directory to codeDeSimone_ImgProc.
 % MS Windows users have to adapt paths to MS Windows sintax.
+%
+% Data files are too large to include within this Github repo, and must be downloaded separately. Using the command line, download and unzip as follows: 
+%
+% wget  --no-check-certificate
+% unzip  DeSimoneErkwaves2020Data.zip
 %
 % MATLAB Toolboxes required are:
 % - Image Processing Toolbox (version 9.5)
