@@ -1,7 +1,7 @@
+Zebrafish scale image processing, Erk activity and tissue flows quantification sample code from:
 Alessandro De Simone, Maya N. Evanitsky, Luke Hayden, Ben D. Cox, Julia Wang, Valerie A. Tornini, Jianhong Ou, Anna Chao, Kenneth D. Poss, Stefano Di Talia
 Control of osteoblast regeneration by a train of Erk activity waves 
 
-Sample code for image processing
 Copyright (C) 2020  Alessandro De Simone
 
 This program is free software: you can redistribute it and/or modify
